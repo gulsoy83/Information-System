@@ -10,20 +10,20 @@ The main UML class diagram of the program is given below.
 You can look into project_description.docx to see the further explanation.
 
 Example input format:
-a.	GSM SERVICE PROVIDER ? :  (Example input: TURKCELL)
-b.	NUMBER OF SUBSCRIPTION PLANS ? : (Example input: 1)
-c.	NAME OF THE Plan #0 ?:  (Example input: 4GB) 
-d.	CUSTOMER CITIZENSHIP NUMBER ? : (Example input: 32643509892)
-e.	CUSTOMER NAME ? :  (Example input: AHMET OZTURK)
-f.	NAME OF THE PLAN TO BE SUBSCRIBED ? : (Example input: 4GB)
-g.	START DATE FOR SUBSCRIPTION (MM/DD/YYYY)? : (Example input: 11/12/2013)
+1. GSM SERVICE PROVIDER ? :  (Example input: TURKCELL)
+2.	NUMBER OF SUBSCRIPTION PLANS ? : (Example input: 1)
+3.	NAME OF THE Plan #0 ?:  (Example input: 4GB) 
+4.	CUSTOMER CITIZENSHIP NUMBER ? : (Example input: 32643509892)
+5.	CUSTOMER NAME ? :  (Example input: AHMET OZTURK)
+6.	NAME OF THE PLAN TO BE SUBSCRIBED ? : (Example input: 4GB)
+7.	START DATE FOR SUBSCRIPTION (MM/DD/YYYY)? : (Example input: 11/12/2013)
 
 Example output format:
-CUSTOMER CITIZENSHIP NUMBER = 32643509892
-CUSTOMER NAME = AHMET OZTURK
-SERVICE PROVIDER : TURKCELL
-SUBSCRIPTION START DATE : 11/12/2013 
-SUBSCRIPTION PLAN NAME : 4GB
+* CUSTOMER CITIZENSHIP NUMBER = 32643509892
+* CUSTOMER NAME = AHMET OZTURK
+* SERVICE PROVIDER : TURKCELL
+* SUBSCRIPTION START DATE : 11/12/2013 
+* SUBSCRIPTION PLAN NAME : 4GB
 
 
 
