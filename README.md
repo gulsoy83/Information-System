@@ -28,11 +28,12 @@ Example output format:
 
 Other examples from the program: 
 
-![hatasız1](https://github.com/gulsoy83/Information-System/assets/46426033/d7c7480d-bd16-46b3-b900-7b9e2f7eefd4)
-![hatasiz2](https://github.com/gulsoy83/Information-System/assets/46426033/a9438702-432d-4fe9-a3b5-93be9e375cc2)
-![hatasiz3](https://github.com/gulsoy83/Information-System/assets/46426033/d3beeb90-56eb-49bd-a8ff-e22d46877887)
 
-![hatali1](https://github.com/gulsoy83/Information-System/assets/46426033/582c71a0-025e-4b47-af72-294eae97fdd7)
-![hatali2](https://github.com/gulsoy83/Information-System/assets/46426033/f18de64a-9794-49b9-b1d9-943e3e70c932)
-![hatali3](https://github.com/gulsoy83/Information-System/assets/46426033/650bfc14-174c-4087-a056-0ac15943bcd3)
+* ![hatasız1](https://github.com/gulsoy83/Information-System/assets/46426033/d7c7480d-bd16-46b3-b900-7b9e2f7eefd4)
+* ![hatasiz2](https://github.com/gulsoy83/Information-System/assets/46426033/a9438702-432d-4fe9-a3b5-93be9e375cc2)
+* ![hatasiz3](https://github.com/gulsoy83/Information-System/assets/46426033/d3beeb90-56eb-49bd-a8ff-e22d46877887)
+
+* ![hatali1](https://github.com/gulsoy83/Information-System/assets/46426033/582c71a0-025e-4b47-af72-294eae97fdd7)
+* ![hatali2](https://github.com/gulsoy83/Information-System/assets/46426033/f18de64a-9794-49b9-b1d9-943e3e70c932)
+* ![hatali3](https://github.com/gulsoy83/Information-System/assets/46426033/650bfc14-174c-4087-a056-0ac15943bcd3)
 
