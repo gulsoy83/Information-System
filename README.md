@@ -26,7 +26,7 @@ Example output format:
 * SUBSCRIPTION PLAN NAME : 4GB
 
 
-
+Other examples from the program: 
 ![hatasız1](https://github.com/gulsoy83/Information-System/assets/46426033/d7c7480d-bd16-46b3-b900-7b9e2f7eefd4)
 ![hatasiz2](https://github.com/gulsoy83/Information-System/assets/46426033/a9438702-432d-4fe9-a3b5-93be9e375cc2)
 ![hatasiz3](https://github.com/gulsoy83/Information-System/assets/46426033/d3beeb90-56eb-49bd-a8ff-e22d46877887)
